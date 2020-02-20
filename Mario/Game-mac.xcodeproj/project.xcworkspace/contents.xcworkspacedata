@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../Actor.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Actor.h">
+   </FileRef>
+   <FileRef
+      location = "group:../AnimatedSprite.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../AnimatedSprite.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Block.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Block.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:../CollisionComponent.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../CollisionComponent.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Component.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Component.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Game.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Game.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Main.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Math.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Math.h">
+   </FileRef>
+   <FileRef
+      location = "group:../MoveComponent.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../MoveComponent.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Random.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Random.h">
+   </FileRef>
+   <FileRef
+      location = "group:../SpriteComponent.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../SpriteComponent.h">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
